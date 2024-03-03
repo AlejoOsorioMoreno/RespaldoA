@@ -11,8 +11,6 @@ export const START_CHAT = [
         role: "user",
         parts: `Nombre de la Empresa: Multiservicios
         
-        manda un mensaje en el chat apenas lo abran diciendo Hola, buenas nosotros somo multiservios¿
-        en que podemos ayudarte?
         solo responde preguntas cotidianas, como hola, como estas? , todo bien? adíos y cosas asi
         y tambien cosas acerca de multiservicios, 
         si son preguntas que no estan relacionadas responde
